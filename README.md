@@ -26,3 +26,10 @@ WHERE p.f_name = "Dobrilo" AND p.l_name = "Antich"
 RETURN p
 
 Result: First and last names are strings[First and Last Names Strings](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/first%20and%20last%20names%20are%20strings.json)
+
+- Cases where the first name is recorded with variations (e.g., 'p24' Antonio; Antoine) are very common. In such cases, the query converts the semicolon-separated string into a list to extract the first name. The f_name is then matched with the s_name variable.
+WITH "Antonio" AS f_name, "di Bon" AS s_name
+MATCH (p:Person)
+WHERE f_name IN split(p.f_name, "; ") and p.l_name = s_name
+RETURN p
+
