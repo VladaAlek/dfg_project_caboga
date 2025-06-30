@@ -1,0 +1,17 @@
+[
+  {
+    "p": {
+      "identity": 67,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Antich",
+        "f_name": "Dobrilo",
+        "id": "p105",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:67"
+    }
+  }
+]
