@@ -1,0 +1,31 @@
+[
+  {
+    "p": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "f_name": "Bogoie",
+        "id": "p44",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:7"
+    }
+  },
+  {
+    "p": {
+      "identity": 8,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Hobradovich; Hobradoçich",
+        "f_name": "Bogoie",
+        "id": "p45",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:8"
+    }
+  }
+]
