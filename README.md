@@ -10,7 +10,7 @@ The names in the KBL reflect the historical realities of the Adriatic basin in t
 MATCH (p:Person {f_name: "Bogoie"})
 RETURN p
 
-Result: [First Name String](http://https://github.com/VladaAlek/dfg_project_caboga/blob/main/neo4j_query_table_data_2025-6-30.json "First Name String")
+Result: [First Name String]([http://https://github.com/VladaAlek/dfg_project_caboga/blob/main/neo4j_query_table_data_2025-6-30.json "First Name String"](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/First%20Name%20String.json))
 The query returns all person nodes with the specified personal name.
 Optionally, for more specific results focused only on the f_name, this query is recommended:
 
@@ -25,4 +25,4 @@ MATCH (p:Person)
 WHERE p.f_name = "Dobrilo" AND p.l_name = "Antich"
 RETURN p
 
-Result: First and last names are strings[First and Last Names Strings](http://https://github.com/VladaAlek/dfg_project_caboga/blob/main/first%20and%20last%20names%20are%20strings.json "First and Last Names Strings")
+Result: First and last names are strings[First and Last Names Strings](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/first%20and%20last%20names%20are%20strings.json)
