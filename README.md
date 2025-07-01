@@ -1,6 +1,6 @@
-**DFG_Project_Caboga**
+# DFG_Project_Caboga****DFG_Project_Caboga
 
-Find Person Nodes Queries
+Find Person Nodes Queries [Main Folder]
 
 The names in the KBL reflect the historical realities of the Adriatic basin in the early 15th century, highlighting the variability in documentation practices of the time. This situation has influenced how the data is stored and interpreted.
 
@@ -25,7 +25,7 @@ MATCH (p:Person)
 WHERE p.f_name = "Dobrilo" AND p.l_name = "Antich"
 RETURN p
 
-Result: First and last names are strings[First and Last Names Strings](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/first%20and%20last%20names%20are%20strings.json)
+Result: [First and Last Names Strings](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/first%20and%20last%20names%20are%20strings.json "First and Last Names Strings")
 
 - Cases where the first name is recorded with variations (e.g., 'p24' Antonio; Antoine) are very common. In such cases, the query converts the semicolon-separated string into a list to extract the first name. The f_name is then matched with the s_name variable.
 WITH "Antonio" AS f_name, "di Bon" AS s_name
