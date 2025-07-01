@@ -47,24 +47,35 @@ RETURN p
 Logically, the same concept applies when all elements forming a person's identity are stored as semicolon-separated strings (e.g., p12: Antich; Antoie; Antoni; Antonio and Çalapia; Çalepia; Çelepia; Galapia).
 
 **IMPORTANT NOTION**
+
 This solution allows users to navigate through multiple name combinations, as demonstrated in the record from page 142 of the Main Book (p. 352 of the printed eddition) and in the query bellow. However, the drawback of this approach is that users must *consult the index* beforehand to select the appropriate Cypher query.
+
 **Query:**
+
 WITH "Antoie" AS f_name, "Çalapia" AS s_name
 MATCH (p:Person)
 WHERE s_name IN split(p.l_name, "; ") and f_name IN split(p.f_name, "; ")
 RETURN p
+
 **Result:** [f_name_l_name_semicolon_separated strings](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/f_name_l_name_semicolon_separated%20strings.json)
+
 However, members of noble families had proper family names. The query below retrieves all members of a given noble house.
+
 **Query:**
+
 WITH "di Mençe" AS s_name
 MATCH (p:Person)
 WHERE s_name IN split(p.l_name, "; ")
 RETURN p
+
 **Result:** [proper_family_names](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/proper_family_names.json)
+
 By focusing on the l_name attribute, specific family members can be traced.
+
 **Query:**
 WITH "di Mençe" AS f_name, "di Ratcho" AS p_name
 MATCH (p:Person)
 WHERE f_name IN split(p.l_name, "; ") and p_name IN split(p.l_name, "; ")
 RETURN p
+
 **Result:** [individual nobleman](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/individual%20nobleman.json)
