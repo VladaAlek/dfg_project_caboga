@@ -33,7 +33,7 @@ WITH "Antonio" AS f_name, "di Bon" AS s_name
 MATCH (p:Person)
 WHERE f_name IN split(p.f_name, "; ") and p.l_name = s_name
 RETURN p
-**Result:** [first name is semicolon string]https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/first%20name%20is%20semicolon%20string.json)
+**Result:** [first name is semicolon string](https://github.com/VladaAlek/dfg_project_caboga/blob/main/Find%20Person%20Nodes%20Queries/first%20name%20is%20semicolon%20string.json)
 The same approach is valid when only the *l_name values* are stored as a string separated by semicolons (p35: Bernardo - Gaschigl; di Gaschigl; Gaschigli).
 **Query:**
   
