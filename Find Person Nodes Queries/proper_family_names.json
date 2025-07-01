@@ -1,0 +1,77 @@
+[
+  {
+    "p": {
+      "identity": 290,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Mençe",
+        "f_name": "Goan",
+        "id": "p330",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:290"
+    }
+  },
+  {
+    "p": {
+      "identity": 291,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Ratcho; di Mençe",
+        "f_name": "Marino; Maroie",
+        "id": "p331",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:291"
+    }
+  },
+  {
+    "p": {
+      "identity": 292,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Mençe",
+        "f_name": "Maroie",
+        "id": "p332",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:292"
+    }
+  },
+  {
+    "p": {
+      "identity": 293,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Mençe",
+        "f_name": "Nichola",
+        "id": "p333",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:293"
+    }
+  },
+  {
+    "p": {
+      "identity": 294,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di B.; di Mençe",
+        "f_name": "Nicholo",
+        "id": "p334",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:294"
+    }
+  }
+]
