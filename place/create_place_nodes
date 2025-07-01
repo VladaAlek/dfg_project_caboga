@@ -1,3 +1,4 @@
+This code creates unique nodes with the p:Place label. 
 MATCH (p:Person)
 WHERE p.origin IS NOT NULL AND p.origin <> ''
 WITH DISTINCT p.origin AS originValue, collect(p) AS persons
@@ -5,3 +6,38 @@ MERGE (place:Place {name: originValue})
 WITH place, persons
 UNWIND persons AS person
 MERGE (person)-[:FROM]->(place)
+---------------------------------------------------------
+**query:** 
+
+MATCH (n)-[r]->(m)
+RETURN n, r, m
+
+**result:** [create_place_nodes](https://github.com/VladaAlek/dfg_project_caboga/blob/main/place/create_place_nodes.json)
+
+
+**result_visualisation:** [visualisation_create_place_nodes](https://github.com/VladaAlek/dfg_project_caboga/blob/main/place/visualisation_create_place_nodes.png) 
+
+---------------------------------------------------------
+- code to create additional labels based on the name proprety value 
+
+**query:** 
+
+MATCH (p:Place)
+CALL {
+  WITH p
+  CALL apoc.create.addLabels(p, [apoc.text.camelCase(p.name)]) YIELD node
+  RETURN node
+}
+RETURN p
+
+- code to capitalize the dynamicaly created node's labels
+
+MATCH (p:Place)
+WITH p, [l IN labels(p) WHERE l <> 'Place'][0] AS oldLabel, apoc.text.capitalizeAll(p.name) AS newLabel
+CALL apoc.create.removeLabels(p, [oldLabel]) YIELD node AS n1
+CALL apoc.create.addLabels(n1, [newLabel]) YIELD node AS n2
+RETURN n2
+
+**result:** 
+
+[capitalized_place_labels](https://github.com/VladaAlek/dfg_project_caboga/blob/main/place/capitalized_place_labels.json)
