@@ -1,0 +1,18 @@
+[
+  {
+    "p": {
+      "identity": 640,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Gaschigl; di Gaschigl; Gaschigli",
+        "origin": "Catalonia",
+        "f_name": "Bernardo",
+        "id": "p35",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:640"
+    }
+  }
+]
