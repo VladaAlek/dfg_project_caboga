@@ -1,0 +1,18 @@
+[
+  {
+    "p": {
+      "identity": 629,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Bon",
+        "origin": "Venice",
+        "f_name": "Antonio; Antoine",
+        "id": "p24",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:629"
+    }
+  }
+]
