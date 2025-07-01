@@ -1,0 +1,262 @@
+[
+  {
+    "n2": {
+      "identity": 572,
+      "labels": [
+        "Place",
+        "Venezia"
+      ],
+      "properties": {
+        "name": "Venezia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:572"
+    }
+  },
+  {
+    "n2": {
+      "identity": 574,
+      "labels": [
+        "Place",
+        "Catalonia"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n2": {
+      "identity": 575,
+      "labels": [
+        "Place",
+        "Rimani"
+      ],
+      "properties": {
+        "name": "Rimani"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:575"
+    }
+  },
+  {
+    "n2": {
+      "identity": 576,
+      "labels": [
+        "Place",
+        "Urbino"
+      ],
+      "properties": {
+        "name": "Urbino"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:576"
+    }
+  },
+  {
+    "n2": {
+      "identity": 577,
+      "labels": [
+        "Place",
+        "Prato"
+      ],
+      "properties": {
+        "name": "Prato"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    }
+  },
+  {
+    "n2": {
+      "identity": 578,
+      "labels": [
+        "Place",
+        "Kotor"
+      ],
+      "properties": {
+        "name": "Kotor"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    }
+  },
+  {
+    "n2": {
+      "identity": 579,
+      "labels": [
+        "Place",
+        "Di Marcho"
+      ],
+      "properties": {
+        "name": "di Marcho"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:579"
+    }
+  },
+  {
+    "n2": {
+      "identity": 582,
+      "labels": [
+        "Place",
+        "Florence"
+      ],
+      "properties": {
+        "name": "Florence"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:582"
+    }
+  },
+  {
+    "n2": {
+      "identity": 583,
+      "labels": [
+        "Place",
+        "Tano"
+      ],
+      "properties": {
+        "name": "Tano"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:583"
+    }
+  },
+  {
+    "n2": {
+      "identity": 584,
+      "labels": [
+        "Place",
+        "Neaples"
+      ],
+      "properties": {
+        "name": "Neaples"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:584"
+    }
+  },
+  {
+    "n2": {
+      "identity": 585,
+      "labels": [
+        "Place",
+        "Skadar"
+      ],
+      "properties": {
+        "name": "Skadar"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:585"
+    }
+  },
+  {
+    "n2": {
+      "identity": 586,
+      "labels": [
+        "Place",
+        "Bar"
+      ],
+      "properties": {
+        "name": "Bar"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:586"
+    }
+  },
+  {
+    "n2": {
+      "identity": 587,
+      "labels": [
+        "Place",
+        "Pesaro"
+      ],
+      "properties": {
+        "name": "Pesaro"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    }
+  },
+  {
+    "n2": {
+      "identity": 588,
+      "labels": [
+        "Place",
+        "Ston"
+      ],
+      "properties": {
+        "name": "Ston"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:588"
+    }
+  },
+  {
+    "n2": {
+      "identity": 589,
+      "labels": [
+        "Place",
+        "Fermo"
+      ],
+      "properties": {
+        "name": "Fermo"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:589"
+    }
+  },
+  {
+    "n2": {
+      "identity": 590,
+      "labels": [
+        "Place",
+        "Pisa"
+      ],
+      "properties": {
+        "name": "Pisa"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:590"
+    }
+  },
+  {
+    "n2": {
+      "identity": 591,
+      "labels": [
+        "Place",
+        "Goražde"
+      ],
+      "properties": {
+        "name": "Goražde"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:591"
+    }
+  },
+  {
+    "n2": {
+      "identity": 592,
+      "labels": [
+        "Place",
+        "Ankona"
+      ],
+      "properties": {
+        "name": "Ankona"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:592"
+    }
+  },
+  {
+    "n2": {
+      "identity": 593,
+      "labels": [
+        "Place",
+        "Drijeva"
+      ],
+      "properties": {
+        "name": "Drijeva"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:593"
+    }
+  },
+  {
+    "n2": {
+      "identity": 594,
+      "labels": [
+        "Place",
+        "Venice"
+      ],
+      "properties": {
+        "name": "Venice"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    }
+  }
+]
