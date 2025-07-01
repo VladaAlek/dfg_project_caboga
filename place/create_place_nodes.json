@@ -1,0 +1,1544 @@
+[
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Bonda di; Çopi; Gopi",
+        "origin": "Pesaro",
+        "f_name": "Bortolomeo; Bortolome",
+        "id": "p55",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:18"
+    },
+    "r": {
+      "identity": 6917530127152710219,
+      "start": 18,
+      "end": 587,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710219",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:18",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    },
+    "m": {
+      "identity": 587,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Pesaro"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "d_Alberto",
+        "origin": "Venezia",
+        "f_name": "Cristofano; Christofano",
+        "id": "p84",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:46"
+    },
+    "r": {
+      "identity": 6917530127152710204,
+      "start": 46,
+      "end": 572,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710204",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:46",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:572"
+    },
+    "m": {
+      "identity": 572,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Venezia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:572"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Ardovini",
+        "origin": "Pesaro",
+        "f_name": "Françescho",
+        "id": "p120",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:82"
+    },
+    "r": {
+      "identity": 6919781926966395467,
+      "start": 82,
+      "end": 587,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395467",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:82",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    },
+    "m": {
+      "identity": 587,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Pesaro"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Chasteglon",
+        "origin": "Catalonia",
+        "f_name": "Françescho",
+        "id": "p121",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:83"
+    },
+    "r": {
+      "identity": 6917530127152710206,
+      "start": 83,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710206",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:83",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Dato; Datto",
+        "origin": "Rimani",
+        "f_name": "Françescho",
+        "id": "p122",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:84"
+    },
+    "r": {
+      "identity": 6917530127152710207,
+      "start": 84,
+      "end": 575,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710207",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:84",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:575"
+    },
+    "m": {
+      "identity": 575,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Rimani"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:575"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Vagnino; Dauganio",
+        "origin": "Urbino",
+        "f_name": "Françescho",
+        "id": "p123",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:85"
+    },
+    "r": {
+      "identity": 6917530127152710208,
+      "start": 85,
+      "end": 576,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710208",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:85",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:576"
+    },
+    "m": {
+      "identity": 576,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Urbino"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:576"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Gauil; Gavnil",
+        "origin": "Catalonia",
+        "f_name": "Françescho",
+        "id": "p124",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:86"
+    },
+    "r": {
+      "identity": 6919781926966395454,
+      "start": 86,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395454",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:86",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Ponçi; Ponco",
+        "origin": "Catalonia",
+        "f_name": "Françescho",
+        "id": "p125",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:87"
+    },
+    "r": {
+      "identity": 6922033726780080702,
+      "start": 87,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6922033726780080702",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:87",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di ser Nicholo;  di ser Nicholao",
+        "origin": "Prato",
+        "f_name": "Gabriel",
+        "id": "p132",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:94"
+    },
+    "r": {
+      "identity": 6917530127152710209,
+      "start": 94,
+      "end": 577,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710209",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:94",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    },
+    "m": {
+      "identity": 577,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Prato"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "origin": "Kotor",
+        "f_name": "Giucho",
+        "id": "p150",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:112"
+    },
+    "r": {
+      "identity": 6917530127152710210,
+      "start": 112,
+      "end": 578,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710210",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:112",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    },
+    "m": {
+      "identity": 578,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Kotor"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "origin": "di Marcho",
+        "f_name": "Giucho",
+        "id": "p151",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:113"
+    },
+    "r": {
+      "identity": 6917530127152710211,
+      "start": 113,
+      "end": 579,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710211",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:113",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:579"
+    },
+    "m": {
+      "identity": 579,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "di Marcho"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:579"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Bonagonta",
+        "origin": "Pesaro",
+        "f_name": "Goan; Goane",
+        "id": "p166",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:128"
+    },
+    "r": {
+      "identity": 6922033726780080715,
+      "start": 128,
+      "end": 587,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6922033726780080715",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:128",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    },
+    "m": {
+      "identity": 587,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Pesaro"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:587"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Bruglo; Brugle; Brugles; Brugli; Bruogl",
+        "origin": "Catalanian",
+        "f_name": "Goan",
+        "id": "p171",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:132"
+    },
+    "r": {
+      "identity": 6917530127152710213,
+      "start": 132,
+      "end": 581,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710213",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:132",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:581"
+    },
+    "m": {
+      "identity": 581,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalanian"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:581"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Ripogl; Ripogli; Ripoglo",
+        "origin": "Catalanian",
+        "f_name": "Goan",
+        "id": "p181",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:142"
+    },
+    "r": {
+      "identity": 6919781926966395461,
+      "start": 142,
+      "end": 581,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395461",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:142",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:581"
+    },
+    "m": {
+      "identity": 581,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalanian"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:581"
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "origin": "Florence",
+        "f_name": "Gorgi",
+        "id": "p220",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:180"
+    },
+    "r": {
+      "identity": 6917530127152710214,
+      "start": 180,
+      "end": 582,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710214",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:180",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:582"
+    },
+    "m": {
+      "identity": 582,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Florence"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:582"
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Montornese",
+        "origin": "Catalanian",
+        "f_name": "Gouan; Goan",
+        "id": "p221",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:181"
+    },
+    "r": {
+      "identity": 6922033726780080709,
+      "start": 181,
+      "end": 581,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6922033726780080709",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:181",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:581"
+    },
+    "m": {
+      "identity": 581,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalanian"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:581"
+    }
+  },
+  {
+    "n": {
+      "identity": 225,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Çecho",
+        "origin": "Prato",
+        "f_name": "Lucha",
+        "id": "p265",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:225"
+    },
+    "r": {
+      "identity": 6919781926966395457,
+      "start": 225,
+      "end": 577,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395457",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:225",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    },
+    "m": {
+      "identity": 577,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Prato"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    }
+  },
+  {
+    "n": {
+      "identity": 247,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Drago; Dragoie",
+        "origin": "Kotor",
+        "f_name": "Marino",
+        "id": "p287",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:247"
+    },
+    "r": {
+      "identity": 6919781926966395458,
+      "start": 247,
+      "end": 578,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395458",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:247",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    },
+    "m": {
+      "identity": 578,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Kotor"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    }
+  },
+  {
+    "n": {
+      "identity": 249,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Marcho",
+        "origin": "Tano",
+        "f_name": "Marino",
+        "id": "p289",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:249"
+    },
+    "r": {
+      "identity": 6917530127152710215,
+      "start": 249,
+      "end": 583,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710215",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:249",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:583"
+    },
+    "m": {
+      "identity": 583,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Tano"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:583"
+    }
+  },
+  {
+    "n": {
+      "identity": 295,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Naputitano",
+        "origin": "Neaples",
+        "f_name": "Menegoço",
+        "id": "p335",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:295"
+    },
+    "r": {
+      "identity": 6917530127152710216,
+      "start": 295,
+      "end": 584,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710216",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:295",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:584"
+    },
+    "m": {
+      "identity": 584,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Neaples"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:584"
+    }
+  },
+  {
+    "n": {
+      "identity": 297,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Gouanini; Govanino; Gouanino; Gouanin",
+        "origin": "Prato",
+        "f_name": "Michil",
+        "id": "p337",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:297"
+    },
+    "r": {
+      "identity": 6922033726780080705,
+      "start": 297,
+      "end": 577,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6922033726780080705",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:297",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    },
+    "m": {
+      "identity": 577,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Prato"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    }
+  },
+  {
+    "n": {
+      "identity": 298,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Lorlando",
+        "origin": "Catalonia",
+        "f_name": "Michil",
+        "id": "p338",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:298"
+    },
+    "r": {
+      "identity": 6924285526593765950,
+      "start": 298,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6924285526593765950",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:298",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 324,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Bogdanovich",
+        "origin": "Skadar",
+        "f_name": "Nichola; Nicholo",
+        "id": "p365",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:324"
+    },
+    "r": {
+      "identity": 6917530127152710217,
+      "start": 324,
+      "end": 585,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710217",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:324",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:585"
+    },
+    "m": {
+      "identity": 585,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Skadar"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:585"
+    }
+  },
+  {
+    "n": {
+      "identity": 330,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "d_Antiuari",
+        "origin": "Bar",
+        "f_name": "Nichola; Nichsa",
+        "id": "p371",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:330"
+    },
+    "r": {
+      "identity": 6917530127152710218,
+      "start": 330,
+      "end": 586,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710218",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:330",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:586"
+    },
+    "m": {
+      "identity": 586,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Bar"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:586"
+    }
+  },
+  {
+    "n": {
+      "identity": 334,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Bratosalich,  Bratosau",
+        "origin": "Ston",
+        "f_name": "Nichola",
+        "id": "p375",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:334"
+    },
+    "r": {
+      "identity": 6917530127152710220,
+      "start": 334,
+      "end": 588,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710220",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:334",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:588"
+    },
+    "m": {
+      "identity": 588,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Ston"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:588"
+    }
+  },
+  {
+    "n": {
+      "identity": 345,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "d_Antonio",
+        "origin": "Fermo",
+        "f_name": "Nicholo; Nicholao",
+        "id": "p386",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:345"
+    },
+    "r": {
+      "identity": 6917530127152710221,
+      "start": 345,
+      "end": 589,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710221",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:345",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:589"
+    },
+    "m": {
+      "identity": 589,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Fermo"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:589"
+    }
+  },
+  {
+    "n": {
+      "identity": 346,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Bortolomeo",
+        "origin": "Prato",
+        "f_name": "Nicholo; Nicholao",
+        "id": "p387",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:346"
+    },
+    "r": {
+      "identity": 6924285526593765953,
+      "start": 346,
+      "end": 577,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6924285526593765953",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:346",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    },
+    "m": {
+      "identity": 577,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Prato"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:577"
+    }
+  },
+  {
+    "n": {
+      "identity": 354,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di miser Vani",
+        "origin": "Fermo",
+        "f_name": "Nicholo",
+        "id": "p395",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:354"
+    },
+    "r": {
+      "identity": 6919781926966395469,
+      "start": 354,
+      "end": 589,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395469",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:354",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:589"
+    },
+    "m": {
+      "identity": 589,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Fermo"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:589"
+    }
+  },
+  {
+    "n": {
+      "identity": 359,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Pisani; Pisan",
+        "origin": "Pisa",
+        "f_name": "Nicholo",
+        "id": "p400",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:359"
+    },
+    "r": {
+      "identity": 6917530127152710222,
+      "start": 359,
+      "end": 590,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710222",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:359",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:590"
+    },
+    "m": {
+      "identity": 590,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Pisa"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:590"
+    }
+  },
+  {
+    "n": {
+      "identity": 402,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "origin": "Catalonia",
+        "f_name": "Petrovich",
+        "id": "p443",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:402"
+    },
+    "r": {
+      "identity": 6926537326407451198,
+      "start": 402,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6926537326407451198",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:402",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 404,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Boso Chasteglon; Boxo; Chasteglon",
+        "origin": "Catalonia",
+        "f_name": "Piero",
+        "id": "p445",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:404"
+    },
+    "r": {
+      "identity": 6928789126221136446,
+      "start": 404,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6928789126221136446",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:404",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 405,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "origin": "Catalonia",
+        "f_name": "Piero",
+        "id": "p446",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:405"
+    },
+    "r": {
+      "identity": 6931040926034821694,
+      "start": 405,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6931040926034821694",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:405",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 407,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Maurin; Maurino",
+        "origin": "Catalonia",
+        "f_name": "Piero",
+        "id": "p448",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:407"
+    },
+    "r": {
+      "identity": 6933292725848506942,
+      "start": 407,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6933292725848506942",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:407",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 447,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Turdoievich",
+        "origin": "Goražde",
+        "f_name": "Radogna",
+        "id": "p488",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:447"
+    },
+    "r": {
+      "identity": 6917530127152710223,
+      "start": 447,
+      "end": 591,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710223",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:447",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:591"
+    },
+    "m": {
+      "identity": 591,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Goražde"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:591"
+    }
+  },
+  {
+    "n": {
+      "identity": 521,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "chançilier; changalir",
+        "origin": "Kotor",
+        "f_name": "Stefano",
+        "id": "p563",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:521"
+    },
+    "r": {
+      "identity": 6922033726780080706,
+      "start": 521,
+      "end": 578,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6922033726780080706",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:521",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    },
+    "m": {
+      "identity": 578,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Kotor"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:578"
+    }
+  },
+  {
+    "n": {
+      "identity": 533,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Tributinovich",
+        "origin": "Skadar",
+        "f_name": "Stiepsa",
+        "id": "p575",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:533"
+    },
+    "r": {
+      "identity": 6919781926966395465,
+      "start": 533,
+      "end": 585,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395465",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:533",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:585"
+    },
+    "m": {
+      "identity": 585,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Skadar"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:585"
+    }
+  },
+  {
+    "n": {
+      "identity": 545,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "origin": "Ankona",
+        "f_name": "Trinci",
+        "id": "p588",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:545"
+    },
+    "r": {
+      "identity": 6917530127152710224,
+      "start": 545,
+      "end": 592,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710224",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:545",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:592"
+    },
+    "m": {
+      "identity": 592,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Ankona"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:592"
+    }
+  },
+  {
+    "n": {
+      "identity": 565,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Hostoich",
+        "origin": "Drijeva",
+        "f_name": "Vochas",
+        "id": "p608",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:565"
+    },
+    "r": {
+      "identity": 6917530127152710225,
+      "start": 565,
+      "end": 593,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710225",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:565",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:593"
+    },
+    "m": {
+      "identity": 593,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Drijeva"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:593"
+    }
+  },
+  {
+    "n": {
+      "identity": 620,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Bon di Venexia",
+        "origin": "Venice",
+        "f_name": "Antoie; Antoni; Antonio",
+        "id": "p15",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:620"
+    },
+    "r": {
+      "identity": 6917530127152710226,
+      "start": 620,
+      "end": 594,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6917530127152710226",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:620",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    },
+    "m": {
+      "identity": 594,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Venice"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    }
+  },
+  {
+    "n": {
+      "identity": 626,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Çaugl; Çavales; Gauagl; Gaual; Gaualas",
+        "origin": "Catalonia",
+        "f_name": "Antonio",
+        "id": "p21",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:626"
+    },
+    "r": {
+      "identity": 6935544525662192190,
+      "start": 626,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6935544525662192190",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:626",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 629,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "di Bon",
+        "origin": "Venice",
+        "f_name": "Antonio; Antoine",
+        "id": "p24",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:629"
+    },
+    "r": {
+      "identity": 6919781926966395474,
+      "start": 629,
+      "end": 594,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6919781926966395474",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:629",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    },
+    "m": {
+      "identity": 594,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Venice"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    }
+  },
+  {
+    "n": {
+      "identity": 640,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "Gaschigl; di Gaschigl; Gaschigli",
+        "origin": "Catalonia",
+        "f_name": "Bernardo",
+        "id": "p35",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:640"
+    },
+    "r": {
+      "identity": 6937796325475877438,
+      "start": 640,
+      "end": 574,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6937796325475877438",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:640",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    },
+    "m": {
+      "identity": 574,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Catalonia"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 641,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "l_name": "d_Alegreto; Alegretto; di Radosau",
+        "origin": "Venice",
+        "f_name": "Biasio",
+        "id": "p36",
+        ":LABEL": "Person"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:641"
+    },
+    "r": {
+      "identity": 6922033726780080722,
+      "start": 641,
+      "end": 594,
+      "type": "FROM",
+      "properties": {},
+      "elementId": "5:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:6922033726780080722",
+      "startNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:641",
+      "endNodeElementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    },
+    "m": {
+      "identity": 594,
+      "labels": [
+        "Place"
+      ],
+      "properties": {
+        "name": "Venice"
+      },
+      "elementId": "4:eda8ea1c-cb33-499c-9adf-9bbad9480b9d:594"
+    }
+  }
+]
