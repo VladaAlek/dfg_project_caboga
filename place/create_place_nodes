@@ -1,0 +1,7 @@
+MATCH (p:Person)
+WHERE p.origin IS NOT NULL AND p.origin <> ''
+WITH DISTINCT p.origin AS originValue, collect(p) AS persons
+MERGE (place:Place {name: originValue})
+WITH place, persons
+UNWIND persons AS person
+MERGE (person)-[:FROM]->(place)
