@@ -1,6 +1,6 @@
 # DFG_Project_Caboga****DFG_Project_Caboga
 
-Find Person Nodes Queries [Main Folder] [Data Set Used]
+Find Person Nodes Queries [Main Folder: Find Person Nodes Queries](https://github.com/VladaAlek/dfg_project_caboga/tree/main/Find%20Person%20Nodes%20Queries) [[Data Set Used](https://github.com/VladaAlek/dfg_project_caboga/blob/main/CSV_Files/01_07_25_person_template.csv)]
 
 The names in the KBL reflect the historical realities of the Adriatic basin in the early 15th century, highlighting the variability in documentation practices of the time. This situation has influenced how the data is stored and interpreted.
 
