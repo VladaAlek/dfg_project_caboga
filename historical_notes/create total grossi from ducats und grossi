@@ -1,0 +1,9 @@
+MATCH (n)
+WHERE exists(n.ducats) AND exists(n.grossi)
+SET n.total_grossi = n.ducats * 24 + n.grossi
+
+Attention, there are cases when the amount consist only from ducats
+
+MATCH (n)
+WHERE (exists(n.ducats) OR exists(n.grossi)) AND NOT exists(n.total_grossi)
+SET n.total_grossi = coalesce(n.ducats, 0) * 24 + coalesce(n.grossi, 0)
